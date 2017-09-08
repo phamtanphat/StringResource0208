@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StringResource0208</string>
+    <string name="hint_NhapTen">Input User Name</string>
+    <string name="hint_NhapSoDT">Input Phone Number</string>
+    <string name="text_buttonXacNhan">Confirm</string>
+    <string name="text_title">Information Form</string>
+    <string name="text_thongtin_hovaten">Username</string>
+    <string name="text_number">Phone Number</string>
+</resources>

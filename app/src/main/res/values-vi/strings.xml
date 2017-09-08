@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StringResource0208</string>
+    <string name="hint_NhapSoDT">Nhap So Dien Thoai</string>
+    <string name="hint_NhapTen">Nhap Ten Nguoi Dung</string>
+    <string name="text_buttonXacNhan">Xac Nhan</string>
+    <string name="text_title">PHIEU THONG TIN</string>
+    <string name="text_thongtin_hovaten">Ho va ten</string>
+    <string name="text_number">So dien thoai</string>
+</resources>
